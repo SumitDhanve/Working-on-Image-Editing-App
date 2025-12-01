@@ -1,4 +1,4 @@
-# Working on Image image Editing App
+# Working on Image Editing App
 
 A simple and interactive Image Editing Web Application built using Streamlit and Pillow (PIL).
 This app allows users to upload and edit images with operations such as rotation, flipping, resizing, filtering, and enhancements like brightness, contrast, color, and sharpness.
